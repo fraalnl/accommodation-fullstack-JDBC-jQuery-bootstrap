@@ -1,0 +1,21 @@
+.more-info-btn {
+  background-color: #4CAF50; /* Green color */
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px; /* Rounded corners */
+}
+
+.more-info-btn:hover {
+  background-color: #3e8e41; /* Darker green on hover */
+}
+
+.modal-dialog {
+  max-width: 60%; /* make sure the image doesn't go beyond the borders */
+}  
